@@ -1,0 +1,31 @@
+.sidebar {
+    background-color: blue; /* Set the background color to blue */
+    width: 250px; /* Adjust the width as needed */
+    height: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    overflow-x: hidden;
+    padding-top: 20px; /* Add some top padding for the links */
+  }
+  
+  .sidebar ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .sidebar li {
+    margin-bottom: 10px;
+  }
+  
+  .sidebar a {
+    color: white; /* Set link text color to white */
+    text-decoration: none;
+    display: block;
+    padding: 10px;
+  }
+  
+  .sidebar a:hover {
+    background-color: darkblue; /* Change background color on hover */
+  }
+  

@@ -1,0 +1,43 @@
+
+@import 'primeicons/primeicons.css';
+        
+/* Custom CSS for the blue navbar background */
+.navbar-custom-blue {
+    background-color: blue; /* Change this to your desired blue color */
+    /* You can also set other styles as needed */
+  }
+.nav-items{
+    display: flex;
+    justify-content: space-between;
+    color: white;
+    padding-right: 10em;
+
+}
+.nav-items li{
+    text-decoration: none;
+}
+
+.d-flex{
+    padding-left: 30em;
+}
+
+.dashBoard-section{
+    margin-left: 5em;
+}
+.table-section{
+    width: 50em;
+    padding-left: 20em;
+    height: fit-content;
+
+}
+
+.table-dashboard{
+    display: flex;
+    padding-top: 2em;
+}
+
+.card{
+    width: 50em;
+    margin-left: 55em;
+    
+}
